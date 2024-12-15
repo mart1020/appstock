@@ -1,0 +1,3 @@
+Codigo: 5456 | Nombre: coca cola | Stock: 10
+Codigo: 4565 | Nombre: pepsi | Stock: 50
+Codigo: 8789 | Nombre: oreo | Stock: 20
